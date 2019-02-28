@@ -2,30 +2,30 @@
 
 ## Indice 
 1. Contexto
-    * ¿Qué es  Tus Finanzas?
-    * Prototipo MVP y Landing Page
-    * Objetivos Academicos
-2. Investigacion
-    * Objetivos del App
-    * Problemas identificados del cliente
-    * Problemas identificados del usuario
-3. En accion
-    * Resultados de la primera iteracion
-    * Funciones del App
-    * Interacion final 
+    1. *¿Qué es  Tus Finanzas?*
+    2. *Prototipo MVP y Landing Page*
+    3. *Objetivos Académicos*
+2. Investigación
+    1. *Objetivos del App*
+    2. *Problemas identificados del cliente*
+    3. *Problemas identificados del usuario*
+3. En acción
+    1. *Resultados de la primera iteración*
+    2. *Funciones del App*
+    3. *Interacción final* 
 4. Recomendaciones
 5. Nuestro Proceso 
-   * Entrevista con el cliente.
-   * Entrevista con usuarios.
-   * Benchmark
-   * Testing inicial
-   * Affinity map
-   * User Persona
-   * Customer Journey Map
+   1. *Entrevista con el cliente*
+   2. *Entrevista con usuarios*
+   3. *Benchmark*
+   4. *Testing inicial*
+   5. *Affinity map*
+   6. *User Persona*
+   7. *Customer Journey Map*
 6. Entregables
 
 
-## Contexto
+## CONTEXTO
 
 El banco más importante del país ha lanzado una nueva aplicación móvil al
 mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
@@ -42,142 +42,91 @@ de UX y son asignadas al proyecto.
  (falta)
 ![Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
 
-## Objetivos de Academicos
+### Objetivos de Academicos
 
-El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
-un producto ya existente. Muchas de ustedes terminarán trabajando en productos
-existentes y deben estar familiarizadas con el proceso de analizar la data del
-producto, complementar con investigación de campo y con esto definir una
-estrategia de crecimiento del producto. Puedes leer sobre el trabajo de un
-UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
+* Enfrentar el reto de rediseñar un producto ya existente.
+* Familiarizarnos con el proceso de analizar data del producto, complementar con investigación de campo y con esto definir una estrategia de crecimiento del producto.
+* Prácticar habilidades como:  pensamiento crítico, cuestionamiento, síntesis, diseño de componentes de la interfaz y User Testing.
 
-En este proyecto pondrás en práctica habilidades de: análisis de datos,
-investigación de campo, pensamiento crítico, cuestionamiento, síntesis, diseño
-de componentes de la interfaz y user testing.
+## INVESTIGACIÓN
+### Objetivos del App 
+Segun la entrevista con el cliente y la investigacion de por medio, concluimos que  el app "Tus Finanzas" tiene como objetivo:
+* Ofrecer una plataforma dinamica y facil de navegar, para su publico en general.
+* Promover el ahorro con metas establecidas, acompañandote con mesansajes motivadores y mostrando el avance de tus ahorros. 
+* Te ayuda administrar tus movimientos financieros. Informandote a detalle tus movimientos por mes, categorizando tus gastos y viendo los avances de tus metas creadas en ahorro.
 
-## Consideraciones generales
+### Objetivos identificados del cliente
+En el transcurso de la investigacion y la entrevista con el cliente logramos identificar los problemas, estos tienen que ver con :
+* Innovar su app para mejorar la experiencia, de tal forma que pueda generar un mayor impacto y de esta forma pueda destacar.
+* Indentificar a través de que plataforma de marketing digital, si podríamos optimizar el porcentaje de conversión.
 
-Como ya habrás notado, gran parte del trabajo de UX tiene relación con el
-desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo largo
-de cualquier proyecto y su desarrollo es clave para el éxito. Estas habilidades
-no sólo son utilizadas a la hora de entender al usuario, sino a lo largo de toda
-la ejecución, es decir desde cómo planificamos hasta nuestra presentación al
-cliente.
+### Obejtivos identificados del usuario 
+Para poder declarar los objetivos relevantes de los usuarios en comun,realizamos entrevistas y encuestas.
 
-Anteriormente, nos habíamos concentrado en el desarrollo de tu curiosidad y
-empatía, practicado cómo relacionarte con el cliente y el usuario. Siempre debes
-pensar quiénes son y qué necesitan, y no enfocarte en lo que tú consideras que
-podría ser la solución correcta. Se trata de entender que nosotros no somos el
-usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestro
-cliente.
+* Poder encontrar un uso frecuente al app, que le permita ver resultados de ahorro.
+*  Tiene que ser seguro , intuitivo y dinamico.  
+* Administrar facilmente sus movimientos financieros y promover el ahorro. 
 
-Este proyecto, a diferencia de otros, no debes partir desde cero generando un
-prototipo, sino investigar lo que el banco ya ha construido y en base a eso
-proponer un nueva alternativa. Para esto, te aconsejamos comenzar por investigar
-la información que tienes; entender qué datos ya manejas y qué elementos
-necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
-es muy relevante para comprender la problemática.
+## EN ACCIÓN
+### Resultados de la primera iteración
+### Funciones del App
+### Interacción final 
+## RECOMENDACIÓN
 
-Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar. Además, te permitirá trabajar de mejor manera con tu
-compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
-posibilidades de mejora y también para preparar la presentación.
+## NUESTRO PROCESO
 
-La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
-si no conoces plataformas financieras parte por investigar sobre ellas. No
-esperes que los contenidos lleguen a ti, más bien busca todo lo que necesites
-para poder encontrar la mejor solución.
+### Entrevista con el cliente
+En el proceso de la entrevista logramos conocer mas sobre el app, sus objetivos de crecimiento en el mercado Fintech y tambien obtuvimos informacion por validar. Todo esto nos ayudo a realizar nuestro Plannig para lograr los objetivos del cliente y poer hacer match con la necesidad del User Persona.
 
-Parte importante de tu trabajo como UX designer es tomar decisiones.
-Efectivamente existen múltiples herramientas que puedes utilizar, debes
-comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar todo gasto con tu consultora y con el cliente, cada
-decisión que tomes en el proyecto debe ser fundamentada, no sigas pasos
-mecánicos por seguirlos, cuestiónate constantemente.
+Conclusiones:
 
-Por último, considera que la calidad de tu presentación es tan importante como
-el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
-buen proyecto. Si vas a utilizar una ppt frente a un cliente, se prolija en el
-diseño de tus láminas y en la información que entregas, también busca la mejor
-manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
-cliente. En la presentación no deben ocurrir errores.
+**Antecedentes**
 
-## Entrega
+ Tus finanzas se mantuvo durante seis meses con un presupuesto fijo en Facebook Ads para promocionar la aplicación que creamos para complementar los servicios que ofrecemos a su vez en la aplicación del banco al que pertenecemos. Así comenzamos a cubrir las necesidades de nuestros usuarios, como lo es ahorrar. Ahora nos mantenemos en la búsqueda de ofrecerles algo más para esta segunda iteración que a la vez signifique algo que pueda diferenciarse de las demás aplicaciones del mercado financiero.
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
 
-README.md  detallando:
+#### Objetivos:
 
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
-* Recomendaciones de próximos pasos para el banco con respecto al app (estas
-  recomendaciones tendrán que ser sustentadas por tu investigación):
-  * Qué modificaciones se deberían hacer
-  * Cuáles deberían ser los próximos desarrollos
-  * En qué se debería invertir el presupuesto de marketing
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores
+*Innovación*
 
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
+Lanzar un MVP con un valor agregado que complemente a la app actual que siga con la tendencia local e internacional y que se mantenga como híbrido (innovación europea, pensando en el mercado peruano) y poder lanzarlo rápido al mercado.
+ 
+*Publicidad*
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
+Definir y justificar el presupuesto y a través de qué canal debe darse la nueva inversión publicitaria para atraer a nuevos clientes e informarlos de la nueva versión que estamos lanzando al mercado.
 
-### Hacker edition
 
-Para el hacker edition puedes elegir una o varias de estas opciones:
+Al finalizar la entrevista identificamos informacion adifional  que debemos validar:
+* Justificar el nuevo monto de inversión.
+* ¿Donde deberíamos invertir en google ads, Instagram o facebook?
+* Implementar sistema operativo android.
 
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
-- Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte
-  del journey del uso del producto. Si crees que un chatbot añadiría valor,
-  prototípalo usando [Botsociety](http://bit.ly/ux-chatbot).
-- Adapta el diseño del app para iPhone X/XS/XR.
-- Diseña un app para Apple Watch que complemente tu propuesta.
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
-- Escribe un post en Medium contando tu proceso de investigación.
-- Crea un video mostrando el demo del app, aquí algunos ejemplos:
-  - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
-  - [Simple Bank](https://www.youtube.com/watch?v=0eqD5o6422M)
-  - [Pocket](https://www.youtube.com/watch?v=MoJHYNKmS2U)
-  - [Hip Money](https://www.youtube.com/watch?v=BIesWRESgAc)
+### Entrevista con usuarios
+Logramos realizar las entrevistas a 5 usuarios. 
+* La edad de nuestros usuarios son enre 18 a 24 años.
+* Viven en el sur de Lima.
+* Nivel socieconomico medio-alto.
 
-## Otras consideraciones
+ **Conclusiones**
 
-### 1) Planeamiento y presupuesto
+*Experiencia con App Bancaria y App de ahorro*
 
-En el reto del marketplace te entregamos una lista de tareas que podías
-realizar y le asignamos un valor en puntos a cada tarea. Además, te dimos un
-presupuesto de 300 puntos para que los utilices en esas tareas. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicionalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
+* Todos los usuarios utilizan app Bancaria y estan interesados en ahorrar.  
+* Las Apps mas utilizdas son BCP, Yape y SMART INTERBANK.
+* Los movimientos financieros mas comunes son las transferencias, visualizar los pagos realizados y saldo disponible.
+* Todos quieren ahorrar, sin embargo solo el 60% de usuarios han utilizado alguna app que les ayuda ahorrar.
+* Lo que no les gusta de las apps son: no poder visualizar mayor detalles en los movimientos que realizan, que se le complique interactuar con la app y que no sea una app segura. 
 
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
+*  
 
-### 2) Prototipo de alta fidelidad
 
-Existen varias herramientas que puedes utilizar para diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
 
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
+### Benchmark
+### Testing inicial
+### Affinity map
+### User Persona
+### Customer Journey Map
+## Entregables
+
+
+
