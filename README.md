@@ -40,7 +40,7 @@ nivel publicitario?¿Qué nuevas propuestas de diseño deberiamos incluir?
 
 ### 1.2. Landing Page 
  (falta)
-![Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
+![Landing Page](https://user-images.githubusercontent.com/45070944/54172620-b7996f00-444c-11e9-8996-932c291939a8.png) inicial del producto
 
 ### Objetivos de Academicos
 
