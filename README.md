@@ -43,11 +43,16 @@ nivel publicitario?¿Qué nuevas propuestas de diseño deberiamos incluir?
 ![Landing Page](https://user-images.githubusercontent.com/45070944/54172620-b7996f00-444c-11e9-8996-932c291939a8.png) 
 [Link a Landing Page](http://tus-finanzas.pagedemo.co/)
 
-### Objetivos de Academicos
+### Objetivos de Académicos
 
-* Enfrentar el reto de rediseñar un producto ya existente.
-* Familiarizarnos con el proceso de analizar data del producto, complementar con investigación de campo y con esto definir una estrategia de crecimiento del producto.
-* Prácticar habilidades como:  pensamiento crítico, cuestionamiento, síntesis, diseño de componentes de la interfaz y User Testing.
+* Rediseñar una aplicación fintech existente.
+* Analizar la data del producto, complementar con investigación de campo y definir una estrategia de crecimiento del producto.
+* Identificar pains en los puntos de contactos entre el producto y el flujo del usuario.
+* Prácticar habilidades como: pensamiento crítico, cuestionamiento, síntesis y priorización.
+* Sustentar nuestras sugerencias y propuestas basandonos en proyecciones. 
+
+## NUESTRO PROCESO DE REDISEÑO UX
+
 
 ## INVESTIGACIÓN
 ### Objetivos del App 
