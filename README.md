@@ -52,26 +52,34 @@ nivel publicitario?¿Qué nuevas propuestas de diseño deberiamos incluir?
 * Sustentar nuestras sugerencias y propuestas basandonos en proyecciones. 
 
 ## NUESTRO PROCESO DE REDISEÑO UX
-
+![Nuestro Proceso de rediseño UX](https://user-images.githubusercontent.com/45070944/54197582-4d0b2200-4492-11e9-9498-184b46520e41.png)
 
 ## INVESTIGACIÓN
-### Objetivos del App 
+### Objetivos del Negocio 
 Segun la entrevista con el cliente y la investigacion de por medio, concluimos que  el app "Tus Finanzas" tiene como objetivo:
-* Ofrecer una plataforma dinamica y facil de navegar, para su publico en general.
-* Promover el ahorro con metas establecidas, acompañandote con mesansajes motivadores y mostrando el avance de tus ahorros. 
-* Te ayuda administrar tus movimientos financieros. Informandote a detalle tus movimientos por mes, categorizando tus gastos y viendo los avances de tus metas creadas en ahorro.
+* Innovar su app para mejorar la experiencia, de tal forma que pueda generar un valor agregado para sus actuales y posibles usuarios durante este nuevo lanzamiento.
+* Brindar una proyección con respecto al análisis de inversión en la pauta publicitaria digital. 
+[Conoce la guía de entrevista con el cliente link](https://docs.google.com/document/d/1tgGPu2gFekHyvMYZyk97TlU8MHipfgC9b2NJzsv9XCI/edit?usp=sharing)
 
-### Objetivos identificados del cliente
-En el transcurso de la investigacion y la entrevista con el cliente logramos identificar los problemas, estos tienen que ver con :
-* Innovar su app para mejorar la experiencia, de tal forma que pueda generar un mayor impacto y de esta forma pueda destacar.
-* Indentificar a través de que plataforma de marketing digital, si podríamos optimizar el porcentaje de conversión.
+###  Problemas encontrados
 
-### Obejtivos identificados del usuario 
-Para poder declarar los objetivos relevantes de los usuarios en comun,realizamos entrevistas y encuestas.
 
-* Poder encontrar un uso frecuente al app, que le permita ver resultados de ahorro.
-*  Tiene que ser seguro , intuitivo y dinamico.  
-* Administrar facilmente sus movimientos financieros y promover el ahorro. 
+![funnel](https://user-images.githubusercontent.com/45070944/54198847-7e392180-4495-11e9-8979-f53d2d15fe6c.png)
+
+Este es un desglose de la data que consideramos priorizar previo a tomar decisiones. Aquí identificamos: :
+* Registro de baja usabilidad en la sección de ahorros durante los cuatro primeros meses, esto no llevo a considerar que el proceso de adaptación fue lento. Sin embargo, resaltamos esto ya que la interacción de los usuarios en esta sección incremento cuatro veces su nivel de uso en el último mes seis con respecto al primero.
+* Solo un 10.38 % del total de las visitas registradas en nuestra landing page,  se traducen en visitas al App store.
+* Del total de instalaciones de Tus Finanzas app, solo un 0.005% se registra.
+
+### Problemas a nivel usuario 
+
+![android](https://user-images.githubusercontent.com/45070944/54198932-ad4f9300-4495-11e9-9a98-05f6f255fa74.png)
+
+Para determinar un problema relevante para los usuarios, realizamos entrevistas, encuestas y user test a una muesta de 40 personas.
+
+* Más del 92% de las visitas registradas corresponden a dispositivos Android, esto significa la perdida de un gran número de descargas que pueden ser el doble de las que actualmente se registran.
+*  El MVP presentaba puntos de contacto de baja usabilidad para los usuarios, confundiendolos al momento desarrollar sus objetivos en la app (se comprueba al no usar el menú flotante).
+* La poca presencia de la identidad gráfica generaba desconfianza en los usuarios.
 
 ## EN ACCIÓN
 ### Resultados de la primera iteración
