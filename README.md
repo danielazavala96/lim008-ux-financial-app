@@ -39,8 +39,9 @@ nivel publicitario?¿Qué nuevas propuestas de diseño deberiamos incluir?
 ![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
 
 ### 1.2. Landing Page 
- (falta)
-![Landing Page](https://user-images.githubusercontent.com/45070944/54172620-b7996f00-444c-11e9-8996-932c291939a8.png) inicial del producto
+
+![Landing Page](https://user-images.githubusercontent.com/45070944/54172620-b7996f00-444c-11e9-8996-932c291939a8.png) 
+[Link a Landing Page](http://tus-finanzas.pagedemo.co/)
 
 ### Objetivos de Academicos
 
