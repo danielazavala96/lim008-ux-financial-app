@@ -27,13 +27,13 @@
 
 ## CONTEXTO
 
-El banco más importante del país ha lanzado una nueva aplicación móvil al
-mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
-el ahorro. Luego de tener algunos meses en el mercado y algo de tracción, el
-equipo detrás de este nuevo producto ha decidido contratar a una
-agencia/consultora de UX que los ayude a definir la dirección y evolución del
-producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora
-de UX y son asignadas al proyecto.
+El banco más importante del país ha lanzado una aplicación móvil al mercado para 
+que los usuarios puedan controlar sus movimientos, administrar sus gastos y 
+fomentar metas de ahorro. Tras seis meses como MVP disponible para IOS y con una
+web site propia se ha obtenido data real que el equipo detrás de este nuevo 
+producto ha decidido entregar a una agencia/consultora de UX para que los asesore
+en definir dos objetivos primordiales para el cliente: ¿Cómo deberiamos invertir a 
+nivel publicitario?¿Qué nuevas propuestas de diseño deberiamos incluir?
 
 
 ![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
