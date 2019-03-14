@@ -65,9 +65,10 @@ Segun la entrevista con el cliente y la investigacion de por medio, concluimos q
 
 
 ![funnel](https://user-images.githubusercontent.com/45070944/54198847-7e392180-4495-11e9-8979-f53d2d15fe6c.png)
+![Frame 2](https://user-images.githubusercontent.com/45070944/54385250-2a306780-4664-11e9-9bc6-0a03b8cb6c53.png)
 
 Este es un desglose de la data que consideramos priorizar previo a tomar decisiones. Aquí identificamos: :
-* Registro de baja usabilidad en la sección de ahorros durante los cuatro primeros meses, esto no llevo a considerar que el proceso de adaptación fue lento. Sin embargo, resaltamos esto ya que la interacción de los usuarios en esta sección incremento cuatro veces su nivel de uso en el último mes seis con respecto al primero.
+* Registro de baja usabilidad en la **sección de ahorros** durante los cuatro primeros meses, esto no llevo a considerar que el proceso de adaptación fue lento. Sin embargo, resaltamos esto ya que la interacción de los usuarios en esta sección **incremento cuatro veces** su nivel de uso en el último mes seis con respecto al primero.
 * Solo un 10.38 % del total de las visitas registradas en nuestra landing page,  se traducen en visitas al App store.
 * Del total de instalaciones de Tus Finanzas app, solo un 0.005% se registra.
 
