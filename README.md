@@ -86,16 +86,13 @@ Para determinar un problema relevante para los usuarios, realizamos entrevistas,
 ### Resultados de la primera iteración
 Luego de validar a Nuestro User Persona, optamos en realizar un primer Testing, en donde identificamos los siguientes problemas:
 * Algunas palabras confundían y desviaban a los usuarios de cumplir sus objetivos por eso modificamos palabras que tengan mayor relación contextual para los objetivos los usuarios.
+Se detectaron elementos de interacción poco intuitivos, como por ejemplo el botón del menú y el botón de crear cuenta. Los resultados del user test nos mostraron que los elementos del menú tanto como el botón de crear cuenta en ahorro no se familiarizaban con el usuario, por eso decidimos rediseñar la estructura.   
 
-(img del meta y cuenta- ahorro)
-
-* Se detectaron elementos de interacción poco intuitivos, como por ejemplo el botón del menú y el botón de crear cuenta. Los resultados del user test nos mostraron que los elementos del menú tanto como el botón de crear cuenta en ahorro no se familiarizaban con el usuario, por eso decidimos rediseñar la estructura.   
-
-(img del y cuenta- ahorro)
+![Frame 5](https://user-images.githubusercontent.com/45108325/54387513-9cf01180-4669-11e9-9e0d-977f0d9e829a.png)
 
 * No contábamos con un diseño de proceso de incorporación, , consideramos añadir un asistente que permita volver experto a los usuarios en su primera visita en el app.
 
-(img del asistente)
+![Frame 6](https://user-images.githubusercontent.com/45108325/54387970-ad54bc00-466a-11e9-8f88-225652348cb7.png)
 
 * Los gráficos utilizados no representaban información consistente para el usuario, es por eso que optamos en cambiar los gráficos por gráficos consistentes ofreciendo un mayor valor al usuario.
 
@@ -103,11 +100,32 @@ Luego de validar a Nuestro User Persona, optamos en realizar un primer Testing, 
 
 * Libertad y control por parte del usuario para deshacer o repetir una acción realizada, consideramos que una mejor navegación requería darle control y libertad al usuario para desplazarse en la app a través de diversos atajos y poder finalizar una tarea cuando así lo desee.
 
-(img  de menú)
-
+![Frame 4 1](https://user-images.githubusercontent.com/45108325/54388453-bdb96680-466b-11e9-91f6-752b5d91db62.png)
 
 ### Funciones del App
+Proceso de Registrarse
+![Frame 4 2](https://user-images.githubusercontent.com/45108325/54389236-a1b6c480-466d-11e9-8fdc-5e0e50e252cf.png)
+![Frame 4 3](https://user-images.githubusercontent.com/45108325/54389334-ce6adc00-466d-11e9-9046-977ef033bbc2.png)
+
+Generar una meta de ahorro
+
+
+Ingresar un nuevo Gasto
+
+
+Generar un tope de gasto a una categoría
+
+
+Visualizar los detalles de tus movimientos
+
+
 ### Interacción final 
+En nuestro segundo User Testing logramos obtener muy buenos feedback, mostraremos los problemas encontrados y como optamos en solucionarlo.
+✓ Priorizar la información que se desea expresar de manera sencilla, utilizamos información asertivas y concisas. 
+✓ Falta de reconocimiento por los logros de usuarios, utilizamos la economía de Fichas para promover y motivar a nuestros usuarios en realizar metas de ahorro.
+✓ Ausencia del Side bar menú en todas las pantallas, en una primera instancia solo la pagina de inicio tenia el Side Bar del Menú, es por eso que decidimos no solo ponerlo en todas las pantallas, sino que también volverlo estático.
+✓ Reforzar y consolidar la identidad de nuestra marca. Decidimos cambiar el proceso de regístrate, pero el cambio más importante fue en la presentación, varios de los usuarios dudaban estar dentro del app al descargarlo o al ingresar porque la primera imagen no representaba nada es por eso que decidimos poner la imagen del Logo de Tus finanzas de esta forma también resaltamos la identidad de la marca posicionado en la mente de nuestros usuarios. 
+
 ## RECOMENDACIÓN
 
 ## NUESTRO PROCESO
