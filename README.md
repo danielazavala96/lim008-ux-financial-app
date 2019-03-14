@@ -79,11 +79,33 @@ Este es un desglose de la data que consideramos priorizar previo a tomar decisio
 Para determinar un problema relevante para los usuarios, realizamos entrevistas, encuestas y user test a una muesta de 40 personas.
 
 * Más del 92% de las visitas registradas corresponden a dispositivos Android, esto significa la perdida de un gran número de descargas que pueden ser el doble de las que actualmente se registran.
-*  El MVP presentaba puntos de contacto de baja usabilidad para los usuarios, confundiendolos al momento desarrollar sus objetivos en la app (se comprueba al no usar el menú flotante).
+* El MVP presentaba puntos de contacto de baja usabilidad para los usuarios, confundiendolos al momento desarrollar sus objetivos en la app (se comprueba al no usar el menú flotante).
 * La poca presencia de la identidad gráfica generaba desconfianza en los usuarios.
 
 ## EN ACCIÓN
 ### Resultados de la primera iteración
+Luego de validar a Nuestro User Persona, optamos en realizar un primer Testing, en donde identificamos los siguientes problemas:
+* Algunas palabras confundían y desviaban a los usuarios de cumplir sus objetivos por eso modificamos palabras que tengan mayor relación contextual para los objetivos los usuarios.
+
+(img del meta y cuenta- ahorro)
+
+* Se detectaron elementos de interacción poco intuitivos, como por ejemplo el botón del menú y el botón de crear cuenta. Los resultados del user test nos mostraron que los elementos del menú tanto como el botón de crear cuenta en ahorro no se familiarizaban con el usuario, por eso decidimos rediseñar la estructura.   
+
+(img del y cuenta- ahorro)
+
+* No contábamos con un diseño de proceso de incorporación, , consideramos añadir un asistente que permita volver experto a los usuarios en su primera visita en el app.
+
+(img del asistente)
+
+* Los gráficos utilizados no representaban información consistente para el usuario, es por eso que optamos en cambiar los gráficos por gráficos consistentes ofreciendo un mayor valor al usuario.
+
+![Frame 4](https://user-images.githubusercontent.com/45108325/54386688-906ab980-4667-11e9-9725-b9cf80204160.png)
+
+* Libertad y control por parte del usuario para deshacer o repetir una acción realizada, consideramos que una mejor navegación requería darle control y libertad al usuario para desplazarse en la app a través de diversos atajos y poder finalizar una tarea cuando así lo desee.
+
+(img  de menú)
+
+
 ### Funciones del App
 ### Interacción final 
 ## RECOMENDACIÓN
