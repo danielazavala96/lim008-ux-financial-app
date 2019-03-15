@@ -85,21 +85,19 @@ Para determinar un problema relevante para los usuarios, realizamos entrevistas,
 ### Resultados de la primera iteración
 Luego de validar a Nuestro User Persona, optamos en realizar un primer Testing, en donde identificamos los siguientes problemas:
 * Algunas palabras confundían y desviaban a los usuarios de cumplir sus objetivos por eso modificamos palabras que tengan mayor relación contextual para los objetivos los usuarios.
-Se detectaron elementos de interacción poco intuitivos, como por ejemplo el botón del menú y el botón de crear cuenta. Los resultados del user test nos mostraron que los elementos del menú tanto como el botón de crear cuenta en ahorro no se familiarizaban con el usuario, por eso decidimos rediseñar la estructura.   
-
-![Frame 5](https://user-images.githubusercontent.com/45108325/54387513-9cf01180-4669-11e9-9e0d-977f0d9e829a.png)
-
+Se detectaron elementos de interacción poco intuitivos, como por ejemplo el botón del menú y el botón de crear cuenta. Los resultados del user test nos mostraron que los elementos del menú tanto como el botón de crear cuenta en ahorro no se familiarizaban con el usuario, por eso decidimos rediseñar la estructura.  
+* Los gráficos utilizados no representaban información consistente para el usuario, es por eso que optamos en cambiar los gráficos por gráficos consistentes ofreciendo un mayor valor al usuario.
+* Los gráficos utilizados no representaban información consistente para el usuario, es por eso que optamos en cambiar los gráficos por gráficos consistentes ofreciendo un mayor valor al usuario.
+* Libertad y control por parte del usuario para deshacer o repetir una acción realizada, consideramos que una mejor navegación requería darle control y libertad al usuario para desplazarse en la app a través de diversos atajos y poder finalizar una tarea cuando así lo desee.
 * No contábamos con un diseño de proceso de incorporación, , consideramos añadir un asistente que permita volver experto a los usuarios en su primera visita en el app.
 
-![Frame 6](https://user-images.githubusercontent.com/45108325/54387970-ad54bc00-466a-11e9-8f88-225652348cb7.png)
+![Frame (2)](https://user-images.githubusercontent.com/45108325/54408965-3e9b5100-46b2-11e9-93c2-8daeea51da28.png)
 
-* Los gráficos utilizados no representaban información consistente para el usuario, es por eso que optamos en cambiar los gráficos por gráficos consistentes ofreciendo un mayor valor al usuario.
+![Frame-1](https://user-images.githubusercontent.com/45108325/54408314-5d4c1880-46af-11e9-982a-09222a6f663b.png)
 
-![Frame 4](https://user-images.githubusercontent.com/45108325/54386688-906ab980-4667-11e9-9725-b9cf80204160.png)
+![Frame-3](https://user-images.githubusercontent.com/45108325/54408873-c7fe5380-46b1-11e9-8965-72251e342d9d.png)
 
-* Libertad y control por parte del usuario para deshacer o repetir una acción realizada, consideramos que una mejor navegación requería darle control y libertad al usuario para desplazarse en la app a través de diversos atajos y poder finalizar una tarea cuando así lo desee.
-
-![Frame 4 1](https://user-images.githubusercontent.com/45108325/54388453-bdb96680-466b-11e9-91f6-752b5d91db62.png)
+![Frame (4)](https://user-images.githubusercontent.com/45108325/54408999-75716700-46b2-11e9-983f-c7c777a5b49a.png)
 
 
 ### Iteracción final 
