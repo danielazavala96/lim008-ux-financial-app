@@ -150,20 +150,20 @@ Realizamos el Testing a 5 usuarios.
 
 **Conclusiones**
 
-✓Algunas palabras confundian y desviaban a los usuarios de cumplir sus objetivos.
-✓ Se detectaron elementos de interacción poco intuitivos. (btn menu / add ahorro).
-✓ No contabamos con un diseño de proceso de incorporación.
-✓ Los gráficos utilizados no respresentaban información consistente para el usuario.
-✓ Libertad y control por parte del usuario para deshacer o repitir una acción realizada.
+* Algunas palabras confundian y desviaban a los usuarios de cumplir sus objetivos.
+* Se detectaron elementos de interacción poco intuitivos. (btn menu / add ahorro).
+* No contabamos con un diseño de proceso de incorporación.
+* Los gráficos utilizados no respresentaban información consistente para el usuario.
+* Libertad y control por parte del usuario para deshacer o repitir una acción realizada.
 
 #### Segundo Testing
 
 **Conclusiones**
-✓ Ser más inclusivos al aplicar descripciones detallas sobre su progreso.
-✓ Priorizar la información que se desea expresar de manera sencilla.
-✓ Falta de reconocimiento por los logros de usuarios.
-✓ Ausencia del side bar menu en todas las pantallas.
-✓ Reforzar y consolidar la identidad de nuestra marca.
+* Ser más inclusivos al aplicar descripciones detallas sobre su progreso.
+* Priorizar la información que se desea expresar de manera sencilla.
+* Falta de reconocimiento por los logros de usuarios.
+* Ausencia del side bar menu en todas las pantallas.
+* Reforzar y consolidar la identidad de nuestra marca.
 
 ### Benchmark
 
