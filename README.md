@@ -102,29 +102,13 @@ Se detectaron elementos de interacción poco intuitivos, como por ejemplo el bot
 
 ![Frame 4 1](https://user-images.githubusercontent.com/45108325/54388453-bdb96680-466b-11e9-91f6-752b5d91db62.png)
 
-### Funciones del App
-Proceso de Registrarse
-![Frame 4 2](https://user-images.githubusercontent.com/45108325/54389236-a1b6c480-466d-11e9-8fdc-5e0e50e252cf.png)
-![Frame 4 3](https://user-images.githubusercontent.com/45108325/54389334-ce6adc00-466d-11e9-9046-977ef033bbc2.png)
 
-Generar una meta de ahorro
-
-
-Ingresar un nuevo Gasto
-
-
-Generar un tope de gasto a una categoría
-
-
-Visualizar los detalles de tus movimientos
-
-
-### Interacción final 
+### Iteracción final 
 En nuestro segundo User Testing logramos obtener muy buenos feedback, mostraremos los problemas encontrados y como optamos en solucionarlo.
-✓ Priorizar la información que se desea expresar de manera sencilla, utilizamos información asertivas y concisas. 
-✓ Falta de reconocimiento por los logros de usuarios, utilizamos la economía de Fichas para promover y motivar a nuestros usuarios en realizar metas de ahorro.
-✓ Ausencia del Side bar menú en todas las pantallas, en una primera instancia solo la pagina de inicio tenia el Side Bar del Menú, es por eso que decidimos no solo ponerlo en todas las pantallas, sino que también volverlo estático.
-✓ Reforzar y consolidar la identidad de nuestra marca. Decidimos cambiar el proceso de regístrate, pero el cambio más importante fue en la presentación, varios de los usuarios dudaban estar dentro del app al descargarlo o al ingresar porque la primera imagen no representaba nada es por eso que decidimos poner la imagen del Logo de Tus finanzas de esta forma también resaltamos la identidad de la marca posicionado en la mente de nuestros usuarios. 
+* Priorizar la información que se desea expresar de manera sencilla, utilizamos información asertivas y concisas. 
+* Falta de reconocimiento por los logros de usuarios, utilizamos la economía de Fichas para promover y motivar a nuestros usuarios en realizar metas de ahorro.
+* Ausencia del Side bar menú en todas las pantallas, en una primera instancia solo la pagina de inicio tenia el Side Bar del Menú, es por eso que decidimos no solo ponerlo en todas las pantallas, sino que también volverlo estático.
+* Reforzar y consolidar la identidad de nuestra marca. Decidimos cambiar el proceso de regístrate, pero el cambio más importante fue en la presentación, varios de los usuarios dudaban estar dentro del app al descargarlo o al ingresar porque la primera imagen no representaba nada es por eso que decidimos poner la imagen del Logo de Tus finanzas de esta forma también resaltamos la identidad de la marca posicionado en la mente de nuestros usuarios. 
 
 ## RECOMENDACIÓN
 
@@ -172,15 +156,24 @@ Logramos realizar las entrevistas a 5 usuarios.
 * Todos quieren ahorrar, sin embargo solo el 60% de usuarios han utilizado alguna app que les ayuda ahorrar.
 * Lo que no les gusta de las apps son: no poder visualizar mayor detalles en los movimientos que realizan, que se le complique interactuar con la app y que no sea una app segura. 
 
-*  
-
 
 
 ### Benchmark
-### Testing inicial
+
+![BENCHMARK](https://user-images.githubusercontent.com/45108325/54402407-e0627400-4699-11e9-830a-3425aca04625.png)
+
 ### Affinity map
+
+![FINTECH APP AFINITY MAP](https://user-images.githubusercontent.com/45108325/54402246-4b5f7b00-4699-11e9-88df-d60711733deb.jpg)
+
 ### User Persona
+
+![Persona #2](https://user-images.githubusercontent.com/45108325/54402312-96798e00-4699-11e9-9215-0a49300ac525.png)
+
 ### Customer Journey Map
+
+![Customer Journey Map](https://user-images.githubusercontent.com/45108325/54402140-ed329800-4698-11e9-88d0-6bf4b923ac66.png)
+
 ## Entregables
 
 
