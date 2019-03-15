@@ -11,12 +11,11 @@
     3. *Problemas identificados del usuario*
 3. En acción
     1. *Resultados de la primera iteración*
-    2. *Funciones del App*
-    3. *Interacción final* 
+    2. *Interacción final* 
 4. Recomendaciones
 5. Nuestro Proceso 
    1. *Entrevista con el cliente*
-   2. *Entrevista con usuarios*
+   2. *Testing *
    3. *Benchmark*
    4. *Testing inicial*
    5. *Affinity map*
@@ -140,23 +139,31 @@ Al finalizar la entrevista identificamos informacion adifional  que debemos vali
 * ¿Donde deberíamos invertir en google ads, Instagram o facebook?
 * Implementar sistema operativo android.
 
-### Entrevista con usuarios
-Logramos realizar las entrevistas a 5 usuarios. 
+### Testing
+
+Realizamos el Testing a 5 usuarios. 
 * La edad de nuestros usuarios son enre 18 a 24 años.
 * Viven en el sur de Lima.
 * Nivel socieconomico medio-alto.
 
- **Conclusiones**
+#### Primer Testing
 
-*Experiencia con App Bancaria y App de ahorro*
+**Conclusiones**
 
-* Todos los usuarios utilizan app Bancaria y estan interesados en ahorrar.  
-* Las Apps mas utilizdas son BCP, Yape y SMART INTERBANK.
-* Los movimientos financieros mas comunes son las transferencias, visualizar los pagos realizados y saldo disponible.
-* Todos quieren ahorrar, sin embargo solo el 60% de usuarios han utilizado alguna app que les ayuda ahorrar.
-* Lo que no les gusta de las apps son: no poder visualizar mayor detalles en los movimientos que realizan, que se le complique interactuar con la app y que no sea una app segura. 
+✓Algunas palabras confundian y desviaban a los usuarios de cumplir sus objetivos.
+✓ Se detectaron elementos de interacción poco intuitivos. (btn menu / add ahorro).
+✓ No contabamos con un diseño de proceso de incorporación.
+✓ Los gráficos utilizados no respresentaban información consistente para el usuario.
+✓ Libertad y control por parte del usuario para deshacer o repitir una acción realizada.
 
+#### Segundo Testing
 
+**Conclusiones**
+✓ Ser más inclusivos al aplicar descripciones detallas sobre su progreso.
+✓ Priorizar la información que se desea expresar de manera sencilla.
+✓ Falta de reconocimiento por los logros de usuarios.
+✓ Ausencia del side bar menu en todas las pantallas.
+✓ Reforzar y consolidar la identidad de nuestra marca.
 
 ### Benchmark
 
