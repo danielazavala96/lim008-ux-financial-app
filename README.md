@@ -194,9 +194,9 @@ Realizamos el Testing a 5 usuarios.
 ## Entregables
 * [link a video presentación](https://www.useloom.com/share/3a980790e6454bb688a355094999135f)
 * link de Zeplin
-* [link de propuesta de rediseño en Figma](https://www.figma.com/file/I9diGBqhghwmr6shc2WmMt0z/Tus-Finanzas-App?node-id=0%3A1)
-* link de user testing (13 users)
-* link de User flow
+* [El rediseño del app en Figma](https://www.figma.com/file/I9diGBqhghwmr6shc2WmMt0z/Tus-Finanzas-App?node-id=0%3A1), con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/43bca5h/). 
+* User testing realizado.
+* link de User flow.
 
 
 
