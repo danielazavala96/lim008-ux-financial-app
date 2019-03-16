@@ -107,14 +107,11 @@ En nuestro segundo User Testing logramos obtener muy buenos feedback, mostraremo
 * Ausencia del Side bar menú en todas las pantallas, en una primera instancia solo la pagina de inicio tenia el Side Bar del Menú, es por eso que decidimos no solo ponerlo en todas las pantallas, sino que también volverlo estático.
 * Reforzar y consolidar la identidad de nuestra marca. Decidimos cambiar el proceso de regístrate, pero el cambio más importante fue en la presentación, varios de los usuarios dudaban estar dentro del app al descargarlo o al ingresar porque la primera imagen no representaba nada es por eso que decidimos poner la imagen del Logo de Tus finanzas de esta forma también resaltamos la identidad de la marca posicionado en la mente de nuestros usuarios. 
 
-## RECOMENDACIÓN
-
 ## NUESTRO PROCESO
 
 ### Entrevista con el cliente
 En el proceso de la entrevista logramos conocer mas sobre el app, sus objetivos de crecimiento en el mercado Fintech y tambien obtuvimos informacion por validar. Todo esto nos ayudo a realizar nuestro Plannig para lograr los objetivos del cliente y poer hacer match con la necesidad del User Persona.
 
-Conclusiones:
 
 **Antecedentes**
 
@@ -140,7 +137,7 @@ Al finalizar la entrevista identificamos informacion adifional  que debemos vali
 ### Testing
 
 Realizamos el Testing a 5 usuarios. 
-* La edad de nuestros usuarios son enre 18 a 24 años.
+* La edad de nuestros usuarios son entre 18 a 24 años.
 * Viven en el sur de Lima.
 * Nivel socieconomico medio-alto.
 
@@ -179,7 +176,21 @@ Realizamos el Testing a 5 usuarios.
 
 ![Customer Journey Map](https://user-images.githubusercontent.com/45108325/54402140-ed329800-4698-11e9-88d0-6bf4b923ac66.png)
 
+## RECOMENDACIÓN
+
+**Inversión en Facebook Ads**
+**Propuesta de Rediseño** 
+
+
 ## Entregables
+[link a video presentación](https://www.useloom.com/share/3a980790e6454bb688a355094999135f)
+link de Zeplin
+[link de propuesta de rediseño en Figma](https://www.figma.com/file/I9diGBqhghwmr6shc2WmMt0z/Tus-Finanzas-App?node-id=0%3A1)
+link de user testing (13 users)
+link de User flow
+
+
+
 
 
 
