@@ -15,7 +15,7 @@
 4. Recomendaciones
 5. Nuestro Proceso 
    1. *Entrevista con el cliente*
-   2. *Testing *
+   2. *Testing*
    3. *Benchmark*
    4. *Testing inicial*
    5. *Affinity map*
@@ -185,6 +185,11 @@ Realizamos el Testing a 5 usuarios.
 **Propuesta de Rediseño** 
 * La aplicaci{on debe transmitir la identidad gráfica de la marca con un tono fresco y seguro para generar engagement con nuestro publico objetivo.
 * Priorizar las mejorar de usabilidad en los puntos de bajo contacto identificados, según la data, nos permitirá incrementar el nivel de interacciones entres usuarios y nuestra applicación.
+
+**KPI**
+
+* Consideramos que, al habilitar la instalación de la App para Android, dentro de 6 meses de estudio el número de descarga aumentaría un 80% y Sign Up un 60 %.
+* Por otro lado, con respectó al uso frecuente de Ahorro y Gastos, al agregar opciones en crear metas, personalizar topes, agregar gastos manualmente y usar como metodología Economía de Fichas y estilo Gamification lograremos aumentar la frecuencia de uso en un 75% en Ahorros y 70% en Gastos.
 
 ## Entregables
 * [link a video presentación](https://www.useloom.com/share/3a980790e6454bb688a355094999135f)
