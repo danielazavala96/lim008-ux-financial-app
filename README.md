@@ -179,15 +179,19 @@ Realizamos el Testing a 5 usuarios.
 ## RECOMENDACIÓN
 
 **Inversión en Facebook Ads**
-**Propuesta de Rediseño** 
+* La inversión publicitaria en la plataforma de instagram generará un impacto positiva en los próximos resultados.
+* Las descargas de la applicación se incrementaran al desarrollar la versión para android.
 
+**Propuesta de Rediseño** 
+* La aplicaci{on debe transmitir la identidad gráfica de la marca con un tono fresco y seguro para generar engagement con nuestro publico objetivo.
+* Priorizar las mejorar de usabilidad en los puntos de bajo contacto identificados, según la data, nos permitirá incrementar el nivel de interacciones entres usuarios y nuestra applicación.
 
 ## Entregables
-[link a video presentación](https://www.useloom.com/share/3a980790e6454bb688a355094999135f)
-link de Zeplin
-[link de propuesta de rediseño en Figma](https://www.figma.com/file/I9diGBqhghwmr6shc2WmMt0z/Tus-Finanzas-App?node-id=0%3A1)
-link de user testing (13 users)
-link de User flow
+* [link a video presentación](https://www.useloom.com/share/3a980790e6454bb688a355094999135f)
+* link de Zeplin
+* [link de propuesta de rediseño en Figma](https://www.figma.com/file/I9diGBqhghwmr6shc2WmMt0z/Tus-Finanzas-App?node-id=0%3A1)
+* link de user testing (13 users)
+* link de User flow
 
 
 
