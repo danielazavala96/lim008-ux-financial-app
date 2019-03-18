@@ -122,11 +122,11 @@ En el proceso de la entrevista logramos conocer mas sobre el app, sus objetivos 
 
 *Innovación*
 
-Lanzar un MVP con un valor agregado que complemente a la app actual que siga con la tendencia local e internacional y que se mantenga como híbrido (innovación europea, pensando en el mercado peruano) y poder lanzarlo rápido al mercado.
+Lanzar un MVP con un valor agregado que complemente a la app actual que siga con la tendencia local e internacional y que se mantenga como híbrido (innovación europea, pensando en el mercado peruano) para poder lanzarlo en poco tiempo al mercado.
  
 *Publicidad*
 
-Definir y justificar el presupuesto y a través de qué canal debe darse la nueva inversión publicitaria para atraer a nuevos clientes e informarlos de la nueva versión que estamos lanzando al mercado.
+Definir, justificar el presupuesto y decidir a través de qué canal debe darse la nueva inversión publicitaria para atraer a nuevos clientes e informarlos de la nueva versión que estamos lanzando al mercado.
 
 
 Al finalizar la entrevista identificamos informacion adifional  que debemos validar:
@@ -145,7 +145,7 @@ Realizamos el Testing a 5 usuarios.
 
 **Conclusiones**
 
-* Algunas palabras confundian y desviaban a los usuarios de cumplir sus objetivos.
+* Algunas palabras confundían y desviaban a los usuarios de cumplir sus objetivos.
 * Se detectaron elementos de interacción poco intuitivos. (btn menu / add ahorro).
 * No contabamos con un diseño de proceso de incorporación.
 * Los gráficos utilizados no respresentaban información consistente para el usuario.
@@ -180,16 +180,16 @@ Realizamos el Testing a 5 usuarios.
 
 **Inversión en Facebook Ads**
 * La inversión publicitaria en la plataforma de instagram generará un impacto positiva en los próximos resultados.
-* Las descargas de la applicación se incrementaran al desarrollar la versión para android.
+* Desarrollar la versión para android, esto nos permitirá observar un incremento en el nivel de descargas.
 
 **Propuesta de Rediseño** 
-* La aplicaci{on debe transmitir la identidad gráfica de la marca con un tono fresco y seguro para generar engagement con nuestro publico objetivo.
+* La aplicación debe transmitir la identidad gráfica de la marca con un tono fresco y seguro para generar engagement con nuestro público objetivo.
 * Priorizar las mejorar de usabilidad en los puntos de bajo contacto identificados, según la data, nos permitirá incrementar el nivel de interacciones entres usuarios y nuestra applicación.
 
 **KPI**
 
 * Consideramos que, al habilitar la instalación de la App para Android, dentro de 6 meses de estudio el número de descarga aumentaría un 80% y Sign Up un 60 %.
-* Por otro lado, con respectó al uso frecuente de Ahorro y Gastos, al agregar opciones en crear metas, personalizar topes, agregar gastos manualmente y usar como metodología Economía de Fichas y estilo Gamification lograremos aumentar la frecuencia de uso en un 75% en Ahorros y 70% en Gastos.
+* Por otro lado, con respecto al uso frecuente de Ahorro y Gastos, al agregar opciones en crear metas, personalizar topes, agregar gastos manualmente y usar como metodología Economía de Fichas y estilo Gamification lograremos aumentar la frecuencia de uso en un 75% en Ahorros y 70% en Gastos.
 
 ## Entregables
 * [link a video presentación](https://www.useloom.com/share/3a980790e6454bb688a355094999135f)
